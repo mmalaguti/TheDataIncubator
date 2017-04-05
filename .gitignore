@@ -1,0 +1,6 @@
+# ignore all files in the build/ directory
+babes_stats/
+datacourse/
+iPython_Numpy_Sample_Work/
+samples/
+deploywebsite.sh
